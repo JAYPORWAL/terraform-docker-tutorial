@@ -41,7 +41,7 @@ Check your Docker environment — you should see a running container (e.g., Ngin
 terraform destroy
 ```
 
-> Confirm with `yes` to clean up resources.
+> Confirm with `yes` to clean up resources...
 
 ---
 
